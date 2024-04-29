@@ -10,5 +10,3 @@
 - ⚡ Fun fact **I play Mobile Legends: Bang Bang**
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggasaputra25&show_icons=true&locale=en&layout=compact" alt="anggasaputra25" /></p>
