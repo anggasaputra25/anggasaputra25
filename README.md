@@ -11,4 +11,4 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anggasaputra25&show_icons=true&locale=en&layout=compact" alt="anggasaputra25" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anggasaputra25&show_icons=true&locale=en&layout=compact" alt="anggasaputra25" /></p>
