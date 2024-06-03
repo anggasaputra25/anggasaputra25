@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 👨‍💻 All of my projects are available at [https://anggasaputra25.github.io/portofolioAngga.github.io](https://anggasaputra25.github.io/portofolioAngga.github.io)
+- 👨‍💻 All of my projects are available at [MyPortfolio](https://anggasaputra25.github.io/portfolio)
 
 - 💬 Ask me about **Android, Laravel**
 
