@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angga Saputra</h1>
-<h3 align="center">A student from SMKN 1 Denpasar</h3>
+<h3 align="center">A student from Primakara University</h3>
 
 - 🌱 I’m currently learning **React JS**
 
